@@ -1,0 +1,2 @@
+DEBUG = True
+SECRET_KEY = 'ADNOfnaon*&%mn2983y9542yaksdKJHDAS'
